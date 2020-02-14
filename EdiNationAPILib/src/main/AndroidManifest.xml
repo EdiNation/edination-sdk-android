@@ -1,0 +1,14 @@
+<!--
+ - EdiNationAPILib
+ -
+ - This file was automatically generated for EdiNation by APIMATIC v2.0 ( https://apimatic.io ).
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.edination.api">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application android:allowBackup="true"
+        android:label="@string/app_name">
+
+    </application>
+
+</manifest>
